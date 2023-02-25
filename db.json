@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "fadil",
+      "username": "fadilajah",
+      "password": "fadilajah",
+      "image": "/src/assets/Profile.jpg"
+    },
+    {
+      "id": 2,
+      "name": "rafis",
+      "username": "farisajah",
+      "password": "farisajah",
+      "image": "/src/assets//profile2.jpg"
+    },
+    {
+      "username": "fadilajah",
+      "password": "fadilajah",
+      "id": 3
+    },
+    {
+      "username": "fadilajah",
+      "password": "fadilajah",
+      "id": 4
+    },
+    {
+      "username": "fadilajah",
+      "password": "fadilajah",
+      "id": 5
+    },
+    {
+      "username": "fadilajah",
+      "password": "fadilajah",
+      "id": 6
+    },
+    {
+      "username": "fadilajah",
+      "password": "fadilajah",
+      "id": 7
+    },
+    {
+      "username": "fadilajah",
+      "password": "fadilajah",
+      "id": 8
+    },
+    {
+      "username": "fadilaja",
+      "password": "fadilajah",
+      "id": 9
+    },
+    {
+      "username": "fadilajah",
+      "password": "fadilajah",
+      "id": 10
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "namaProduct": "jam tangan casio",
+      "description": "fdaffr grgjsfgjaag sasjaafgk gsgaljgag sgsjgsag sags ssfv afsvvfsa vasfvnfasg",
+      "price": 120000,
+      "kategori": "Aksesories",
+      "image": "/src/assets/jam-tangan1.jfif"
+    },
+    {
+      "id": 2,
+      "namaProduct": "jam casiorang",
+      "description": "fdaffr grgjsfgjaag sasjaafgk gsgaljgag sgsjgsag sags ssfv afsvvfsa vasfvnfasg",
+      "price": 500000,
+      "kategori": "Aksesories",
+      "image": "/src/assets/jam-tangan2.jfif"
+    },
+    {
+      "id": 3,
+      "namaProduct": "jam tangan casio",
+      "description": "fdaffr grgjsfgjaag sasjaafgk gsgaljgag sgsjgsag sags ssfv afsvvfsa vasfvnfasg",
+      "price": 120000,
+      "kategori": "Aksesories",
+      "image": "/src/assets/jam-tangan1.jfif"
+    },
+    {
+      "id": 4,
+      "namaProduct": "jam casiorang",
+      "description": "fdaffr grgjsfgjaag sasjaafgk gsgaljgag sgsjgsag sags ssfv afsvvfsa vasfvnfasg",
+      "price": 500000,
+      "kategori": "Aksesories",
+      "image": "/src/assets/jam-tangan2.jfif"
+    },
+    {
+      "id": 5,
+      "namaProduct": "jam tangan casio",
+      "description": "fdaffr grgjsfgjaag sasjaafgk gsgaljgag sgsjgsag sags ssfv afsvvfsa vasfvnfasg",
+      "price": 120000,
+      "kategori": "Aksesories",
+      "image": "/src/assets/jam-tangan1.jfif"
+    },
+    {
+      "id": 6,
+      "namaProduct": "jam casiorang",
+      "description": "fdaffr grgjsfgjaag sasjaafgk gsgaljgag sgsjgsag sags ssfv afsvvfsa vasfvnfasg",
+      "price": 500000,
+      "kategori": "Aksesories",
+      "image": "/src/assets/jam-tangan2.jfif"
+    },
+    {
+      "id": 7,
+      "namaProduct": "jam tangan casio",
+      "description": "fdaffr grgjsfgjaag sasjaafgk gsgaljgag sgsjgsag sags ssfv afsvvfsa vasfvnfasg",
+      "price": 120000,
+      "kategori": "Aksesories",
+      "image": "/src/assets/jam-tangan1.jfif"
+    },
+    {
+      "id": 8,
+      "namaProduct": "jam casiorang",
+      "description": "fdaffr grgjsfgjaag sasjaafgk gsgaljgag sgsjgsag sags ssfv afsvvfsa vasfvnfasg",
+      "price": 500000,
+      "kategori": "Aksesories",
+      "image": "/src/assets/jam-tangan2.jfif"
+    }
+  ]
+}

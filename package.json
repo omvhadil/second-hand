@@ -1,0 +1,37 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "api": "json-server --watch db.json",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@vueuse/core": "^9.10.0",
+    "apexcharts": "^3.36.3",
+    "axios": "^1.2.0",
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4",
+    "pinia": "^2.0.28",
+    "remixicon": "^2.5.0",
+    "sweetalert2": "^11.6.15",
+    "vee-validate": "^4.7.3",
+    "vue": "^3.2.45",
+    "vue-apexcharts": "^1.6.2",
+    "vue-router": "^4.1.6",
+    "vue3-apexcharts": "^1.4.1",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.4",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "prettier": "^2.7.1",
+    "vite": "^4.0.0"
+  }
+}
